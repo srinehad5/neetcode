@@ -9,5 +9,7 @@ class Solution {
             s[idx] = st.pop();
             idx++;
         }
+
+
     }
 }
